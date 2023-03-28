@@ -59,6 +59,11 @@ form .row:nth-child(2) label{
     font-size: 17px;
 }
 
+/*selecting multiple elements using where selector*/
+
+/*The :where() CSS pseudo-class function takes a selector list as its argument, and
+ selects any element that can be selected by one of the selectors in that list.*/
+
 form :where(textarea, select, button) {
     outline: none;
     width: 100%;
