@@ -7,4 +7,4 @@ An app created using HTML, CSS and JS that can say out loud the text provided by
 3. JS
 
 # Live Demo
-[text-to-speech](https://www.example.com)
+[text-to-speech](https://ashimstha.github.io/Text-to-Speech-App/)
